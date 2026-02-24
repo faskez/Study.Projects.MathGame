@@ -10,7 +10,7 @@ namespace MathGame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello C#");
+            Console.WriteLine("Hello C# ONE MORE CONFIG TEST v2 ");
         }
     }
 }
